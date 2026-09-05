@@ -1,3 +1,5 @@
+# RATE LIMITER SERVICE
+
 ## Description
 
 A **high-performance, concurrency-safe Rate Limiter** implemented in Java 17 to control request throughput and prevent system overload under high traffic. The project provides multiple rate-limiting algorithms, including **Token Bucket, Leaky Bucket, Fixed Window, Sliding Window Log, and Sliding Window Counter**, enabling different traffic-control strategies based on application requirements.
