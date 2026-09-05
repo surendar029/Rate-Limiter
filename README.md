@@ -26,3 +26,7 @@ The implementation focuses on **concurrency, algorithmic efficiency, and extensi
 * **Core Concepts**: Concurrency, Algorithms, Time-based Request Throttling
 * **Design**: Strategy-based extensible architecture, Object-Oriented Design
 * **Data Structures**: ConcurrentHashMap, Queues / Timestamp-based tracking
+---
+## Category 
+- Multi-Algorithm Rate Limiting
+---
